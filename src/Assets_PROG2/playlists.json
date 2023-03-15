@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Study Music",
+        "songs": [
+            {
+                "name": "And So It Begins",
+                "path": "./Music/And So It Begins \u2013 Artificial Music (No Copyright Music), by Audio Library \u2014 Music for content creators.mp3",
+                "artist": "Artificial Music"
+            },
+            {
+                "name": "Fashion",
+                "path": "./Music/Fashion - Alex Productions, by Made For Tunes.mp3",
+                "artist": "Alex Productions"
+            },
+            {
+                "name": "Herbal Tea",
+                "path": "./Music/Herbal Tea, by Artificial Music.mp3",
+                "artist": "Artificial Music"
+            },
+            {
+                "name": "Remember",
+                "path": "./Music/KaizanBlu - Remember, by KaizanBlu.mp3",
+                "artist": "Kaizan"
+            },
+            {
+                "name": "Miss you!",
+                "path": "./Music/Miss You by Middle Child us.mp3",
+                "artist": "Middle Child us"
+            }
+        ]
+    },
+    {
+        "name": "NCS Hits!",
+        "songs": [
+            {
+                "name": "Surprise!!",
+                "path": "./Music/Surprise!.mp3",
+                "artist": "not Rick Astley"
+            },
+            {
+                "name": "Invincible",
+                "path": "./Music/DEAF KEV - Invincible [NCS Release], by NoCopyrightSounds.mp3",
+                "artist": "DEAF KEV"
+            },
+            {
+                "name": "My Heart",
+                "path": "./Music/Different Heaven & EH!DE - My Heart [NCS Release], by NoCopyrightSounds.mp3",
+                "artist": "Different Heaven, EH!DE"
+            },
+            {
+                "name": "Blank",
+                "path": "./Music/Disfigure - Blank [NCS Release], by NoCopyrightSounds.mp3",
+                "artist": "Disfigure"
+            },
+            {
+                "name": "Symbolism",
+                "path": "./Music/Electro-Light - Symbolism [NCS Release], by NoCopyrightSounds.mp3",
+                "artist": "Electro-Light"
+            },
+            {
+                "name": "On and On",
+                "path": "./Music/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3",
+                "artist": "Cartoon"
+            },
+            {
+                "name": "Sky High",
+                "path": "./Music/Elektronomia - Sky High [NCS Release], by NoCopyrightSounds.mp3",
+                "artist": "Elektronomia"
+            },
+            {
+                "name": "Heroes Tonight",
+                "path": "./Music/Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3",
+                "artist": "Janji, Johnning"
+            },
+            {
+                "name": "Cradles",
+                "path": "./Music/Sub Urban - Cradles [NCS Release], by NoCopyrightSounds.mp3",
+                "artist": "Suburbans"
+            },
+            {
+                "name": "Superhero",
+                "path": "./Music/Unknown Brain - Superhero (feat. Chris Linton) [NCS Release], by NoCopyrightSounds.mp3",
+                "artist": "Unknown Brain"
+            },
+            {
+                "name": "Mortals",
+                "path": "./Music/Warriyo - Mortals (feat. Laura Brehm) [NCS Release], by NoCopyrightSounds.mp3",
+                "artist": "Warriyo, Laura Brehm"
+            },
+            {
+                "name": "Fearless Pt II",
+                "path": "./Music/Lost Sky - Fearless pt.II (feat. Chris Linton) [NCS Release], by NoCopyrightSounds.mp3",
+                "artist": "Lost Sky"
+            }
+        ]
+    }
+]
