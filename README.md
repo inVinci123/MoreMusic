@@ -5,3 +5,5 @@ This repository holds the source code for MoreMusic - a python based application
 
 ## Try It!
 Currently, only the windows version is available. To try it, go to releases and downloaded the latest version. Unzip it and open the contents, and execute MoreMusic.
+
+Enjoy!
